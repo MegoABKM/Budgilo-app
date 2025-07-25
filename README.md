@@ -50,21 +50,41 @@
 
 ## 🎥 App Screenshots
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fb947537-0bff-4d87-ae8f-5f4e7d8a7e32" width="260" alt="Home Screen">
-  <img src="https://github.com/user-attachments/assets/cabef679-2eea-4081-a1dc-50a914797800" width="260" alt="Pie Chart">
-  <img src="https://github.com/user-attachments/assets/bfddd3b0-d37a-4177-a4a1-d859d17639b6" width="260" alt="Categories & Wallets">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/099c6d74-1ba9-46f0-b087-846840daf68e" width="260" alt="Line Chart">
-  <img src="https://github.com/user-attachments/assets/913dcd63-3cea-42f5-8b76-7ecddb608b1e" width="260" alt="Wallets">
-  <img src="https://github.com/user-attachments/assets/9e24d6da-d5c7-47db-940f-7c6114ca6993" alt="Expenses in Bills">
-</p>
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/d72973ea-954e-4ae5-bfc0-cc4d11e07cc3" width="260" alt="Chart Page">
-  <img src="https://github.com/user-attachments/assets/e9de9180-72e6-4844-b517-61496bfd609b" alt="Calendar View">
-  <img src="https://github.com/user-attachments/assets/4fec9d3e-91e3-4450-ba43-106a3884ca8c" width="260" alt="Chart Page Alt">
-</p>
+<table align="center" cellpadding="5">
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/fb947537-0bff-4d87-ae8f-5f4e7d8a7e32" width="270" alt="Home Screen">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/cabef679-2eea-4081-a1dc-50a914797800" width="270" alt="Pie Chart">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/bfddd3b0-d37a-4177-a4a1-d859d17639b6" width="270" alt="Categories & Wallets">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/099c6d74-1ba9-46f0-b087-846840daf68e" width="270" alt="Line Chart">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/913dcd63-3cea-42f5-8b76-7ecddb608b1e" width="270" alt="Wallets">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/9e24d6da-d5c7-47db-940f-7c6114ca6993" width="270" alt="Expenses in Bills">
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/d72973ea-954e-4ae5-bfc0-cc4d11e07cc3" width="270" alt="Chart Page">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/e9de9180-72e6-4844-b517-61496bfd609b" width="270" alt="Calendar View">
+    </td>
+    <td align="center">
+      <img src="https://github.com/user-attachments/assets/4fec9d3e-91e3-4450-ba43-106a3884ca8c" width="270" alt="Chart Page Alt">
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -121,7 +141,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Project Link: **[https://github.com/MegoABKM/budgilo-app](https://github.com/your-username/budgilo-app)**
+Project Link: **[https://github.com/your-username/budgilo-app](https://github.com/your-username/budgilo-app)**
 
 <br>
 
