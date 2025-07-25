@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
   <img src="https://img.shields.io/badge/Version-2.1.3-green.svg" alt="Version">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
+  <!-- TODO: Replace with your GitHub username and repo name -->
   <img src="https://img.shields.io/github/stars/your-username/budgify-app?style=social" alt="GitHub Stars">
 </p>
 
@@ -35,37 +36,13 @@ Budgify is a beautifully designed, feature-rich mobile application built with Fl
 
 ## ✨ Key Features
 
-### 📊 Dynamic Financial Dashboard
-- **Real-time Overview**: Instantly see your monthly savings, top spending categories, and budget progress
-- **Interactive Cards**: Beautifully designed cards provide key financial insights at a glance
-- **Lottie Animations**: Engaging animations make the financial experience more enjoyable
-
-### 💰 Smart Transaction Management
-- **Effortless Tracking**: Log expenses and incomes with custom titles, amounts, notes, and dates
-- **Intelligent Categorization**: Assign transactions to default or custom-created categories, each with a unique icon and color
-- **Multiple Views**: View your transaction history in a clean list, detailed table, or visual grid
-
-### 👛 Multi-Wallet System
-- **Unlimited Wallets**: Create and manage multiple wallets for Cash, Bank, and Digital funds
-- **Seamless Transfers**: Easily transfer funds between your wallets with a dedicated interface
-- **Wallet-Specific Insights**: Track the balance and progress of each wallet individually
-
-### 🌈 Immersive & Customizable UI
-- **8 Stunning Themes**: Personalize your app with variety of color themes including Dark, Purple, Blue, Green, Red, and more
-- **Responsive Design**: Fluid and adaptive layout that looks great on both phones and tablets
-- **Customizable Views**: Switch between list, grid, and table views for your expenses
-
-### 🌍 Global Accessibility
-- **Multi-Language Support**: Fully translated into 7 languages:
-  - English | العربية (Arabic) | Español (Spanish)
-  - Deutsch (German) | Français (French)
-  - 中文 (Chinese) | Português (Portuguese)
-- **Currency Customization**: Supports wide range of global currency symbols
-
-### 📈 Advanced Analytics & Reports
-- **Visual Charts**: Analyze your finances with interactive Pie, Bar, and Line charts
-- **Flexible Filtering**: View data by day, month, or year to understand spending trends
-- **Detailed Reports**: Generate comprehensive tables summarizing your financial activity
+- **📊 Dynamic Financial Dashboard**: Instantly see your monthly savings, top spending categories, and budget progress.
+- **💰 Smart Transaction Management**: Effortlessly log expenses and incomes with custom titles, amounts, notes, and dates.
+- **🗂️ Intelligent Categorization**: Assign transactions to default or custom-created categories, each with a unique icon and color.
+- **👛 Multi-Wallet System**: Create and manage multiple wallets for Cash, Bank, and Digital funds with seamless transfers between them.
+- **🎨 Immersive & Customizable UI**: Personalize your app with **8 stunning themes** and switch between list, grid, and table views.
+- **🌍 Global Accessibility**: Fully translated into **7 languages** with support for a wide range of global currency symbols.
+- **📈 Advanced Analytics & Reports**: Analyze your finances with interactive Pie, Bar, and Line charts, and filter data by day, month, or year.
 
 ## 🎥 App Showcase
 
@@ -92,7 +69,7 @@ Budgify is a beautifully designed, feature-rich mobile application built with Fl
   </tr>
   <tr>
     <td><img src="https://github.com/user-attachments/assets/ef921814-8575-431f-82d0-21c59a624a97" width="250"></td>
-    <td><img src="https://github.com/user-attachments/assets/302141bc-cdea-4032-a235-83289dd2f525" width="250"></td>
+    <td><img src="https://github.com/user-attachments/assets/302141bc-cdea-4032-a235-83282dd2f525" width="250"></td>
   </tr>
 </table>
 
@@ -129,3 +106,41 @@ graph TD
     G --> G1[Multi-Language Support];
     G --> G2[Custom Themes];
     G --> G3[Data Reports];
+Use code with caution.
+Markdown
+🚀 Getting Started
+To get a local copy up and running, follow these simple steps.
+Prerequisites
+Flutter SDK: Installation Guide
+An IDE like Android Studio or VS Code
+Installation
+Clone the repo
+Generated sh
+git clone https://github.com/your-username/budgify-app.git
+Use code with caution.
+Sh
+Navigate to the project directory
+Generated sh
+cd budgify-app
+Use code with caution.
+Sh
+Install packages
+Generated sh
+flutter pub get
+Use code with caution.
+Sh
+Run the app
+Generated sh
+flutter run
+Use code with caution.
+Sh
+🤝 Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+📜 License
+Distributed under the MIT License. See LICENSE for more information.
