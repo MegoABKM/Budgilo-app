@@ -40,87 +40,83 @@
 
 ## ✨ Key Features
 
-### 📊 Dynamic Financial Dashboard
-- Real-time overview of your financial health
-- Interactive cards with key metrics
-- Beautiful Lottie animations
-
-### 💰 Smart Transaction Management
-- Easy expense/income logging
-- Custom categories with icons
-- Multiple view modes (list, grid, table)
-
-### 👛 Multi-Wallet System
-- Unlimited wallet creation
-- Seamless fund transfers
-- Individual wallet analytics
-
-### 🌈 Customizable UI
-- 8 beautiful color themes
-- Responsive design
-- Personalized views
-
-### 🌍 Global Support
-- 7 languages supported
-- Multiple currency options
+-   **📊 Dynamic Financial Dashboard:** Real-time overview of your financial health with interactive cards and Lottie animations.
+-   **💰 Smart Transaction Management:** Easy expense/income logging with custom categories and multiple view modes.
+-   **👛 Multi-Wallet System:** Create unlimited wallets, transfer funds seamlessly, and view individual wallet analytics.
+-   **🌈 Customizable UI:** Choose from 8 beautiful color themes with a fully responsive design.
+-   **🌍 Global Support:** Full support for 7 languages and multiple currencies.
 
 ---
 
 ## 🎥 App Screenshots
 
-<table>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/fb947537-0bff-4d87-ae8f-5f4e7d8a7e32" width="250" alt="Home Screen"></td>
-    <td><img src="https://github.com/user-attachments/assets/913dcd63-3cea-42f5-8b76-7ecddb608b1e" width="250" alt="Wallets"></td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/cabef679-2eea-4081-a1dc-50a914797800" width="250" alt="Pie Chart"></td>
-    <td><img src="https://github.com/user-attachments/assets/099c6d74-1ba9-46f0-b087-846840daf68e" width="250" alt="Line Chart"></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/fb947537-0bff-4d87-ae8f-5f4e7d8a7e32" width="260" alt="Home Screen">
+  <img src="https://github.com/user-attachments/assets/913dcd63-3cea-42f5-8b76-7ecddb608b1e" width="260" alt="Wallets">
+  <img src="https://github.com/user-attachments/assets/cabef679-2eea-4081-a1dc-50a914797800" width="260" alt="Pie Chart">
+  <img src="https://github.com/user-attachments/assets/099c6d74-1ba9-46f0-b087-846840daf68e" width="260" alt="Line Chart">
+</p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-```mermaid
-graph TD
-    A[Flutter] --> B[Riverpod]
-    A --> C[GetX]
-    A --> D[Hive]
-    B --> E[State Management]
-    C --> F[Navigation]
-    D --> G[Local Storage]
-
-
-git clone https://github.com/your-username/budgilo-app.git
-cd budgilo-app
-
-
-📄 License
-Distributed under the MIT License. See LICENSE for more information.
-
-📬 Contact
-Developer: @your-twitter
-Email: yourname@example.com
-Website: budgilo.dev
-
-⭐ Star this repo to support the project and follow for updates!
-
-
-Copy code
+-   **Framework:** Flutter
+-   **Language:** Dart
+-   **State Management:** Riverpod
+-   **Navigation & Utilities:** GetX
+-   **Local Storage:** Hive
+-   **Animations:** Lottie
 
 ---
 
-Let me know if you'd like:
-- A version that uses raw Markdown without `<p>` or `<img>` tags
-- Dynamic README badges (like for GitHub Actions or Codecov)
-- A demo GIF or video section embedded via YouTube
+## 🚀 Getting Started
 
-I'm happy to help tailor this further!
-flutter pub get
-flutter run
+To get a local copy up and running, follow these simple steps.
 
+1.  **Clone the repo**
+    ```sh
+    git clone https://github.com/your-username/budgilo-app.git
+    ```
+2.  **Navigate to the project directory**
+    ```sh
+    cd budgilo-app
+    ```
+3.  **Install dependencies**
+    ```sh
+    flutter pub get
+    ```
+4.  **Run the app**
+    ```sh
+    flutter run
+    ```
 
-🙌 Contributing
-We welcome contributions! Please read our CONTRIBUTING.md for details on the process.
+---
+
+## 🙌 Contributing
+
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+
+Please read our `CONTRIBUTING.md` for details on the process.
+
+---
+
+## 📄 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
+
+## 📬 Contact
+
+Developer: **[@your-twitter](https://twitter.com/your-twitter)**
+<br>
+Email: **yourname@example.com**
+<br>
+Project Link: **[https://github.com/your-username/budgilo-app](https://github.com/your-username/budgilo-app)**
+
+<br>
+
+<p align="center">
+  ⭐ Star this repo to support the project and follow for updates! ⭐
+</p>
