@@ -40,11 +40,11 @@
 
 ## ✨ Key Features
 
--   **📊 Dynamic Financial Dashboard:** Real-time overview of your financial health with interactive cards and Lottie animations.
--   **💰 Smart Transaction Management:** Easy expense/income logging with custom categories and multiple view modes.
--   **👛 Multi-Wallet System:** Create unlimited wallets, transfer funds seamlessly, and view individual wallet analytics.
--   **🌈 Customizable UI:** Choose from 8 beautiful color themes with a fully responsive design.
--   **🌍 Global Support:** Full support for 7 languages and multiple currencies.
+-   **📊 Dynamic Financial Dashboard:** A real-time overview of your financial health with interactive cards and beautiful Lottie animations.
+-   **💰 Smart Transaction Management:** Easily log expenses and income with custom categories, icons, and multiple view modes (list, grid, table).
+-   **👛 Multi-Wallet System:** Create unlimited wallets, seamlessly transfer funds between them, and analyze the performance of each wallet individually.
+-   **🌈 Customizable UI:** Personalize your experience with 8 beautiful color themes and a fully responsive design that looks great on any device.
+-   **🌍 Global Support:** Use the app in your native language with support for 7 languages and multiple global currencies.
 
 ---
 
@@ -61,12 +61,14 @@
 
 ## 🛠️ Tech Stack
 
--   **Framework:** Flutter
--   **Language:** Dart
--   **State Management:** Riverpod
--   **Navigation & Utilities:** GetX
--   **Local Storage:** Hive
--   **Animations:** Lottie
+This project is built with a modern and robust tech stack:
+
+-   **Framework:** [Flutter](https://flutter.dev/)
+-   **Language:** [Dart](https://dart.dev/)
+-   **State Management:** [Riverpod](https://riverpod.dev/)
+-   **Navigation & Utilities:** [GetX](https://pub.dev/packages/get)
+-   **Local Storage:** [Hive](https://pub.dev/packages/hive)
+-   **Animations:** [Lottie](https://pub.dev/packages/lottie)
 
 ---
 
@@ -97,7 +99,7 @@ To get a local copy up and running, follow these simple steps.
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Please read our `CONTRIBUTING.md` for details on the process.
+Please read our `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests.
 
 ---
 
