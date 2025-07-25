@@ -77,12 +77,12 @@ Budgilo is a beautifully designed, feature-rich mobile application built with Fl
 
 ```mermaid
 graph TD
-    A[Flutter] --> B[Riverpod];
-    A --> C[GetX];
-    A --> D[Hive];
-    B --> E[State Management];
-    C --> F[Navigation];
-    D --> G[Local Storage];
+    A[Flutter] --> B[Riverpod]
+    A --> C[GetX]
+    A --> D[Hive]
+    B --> E[State Management]
+    C --> F[Navigation]
+    D --> G[Local Storage]
 🚀 Getting Started
 Prerequisites
 Flutter SDK
@@ -111,26 +111,15 @@ MIT License
 
 text
 
-Key improvements:
-1. Fixed all markdown syntax issues
-2. Ensured proper spacing around sections
-3. Made the tech stack diagram simpler and clearer
-4. Streamlined the feature descriptions
-5. Added alt text to all images
-6. Made the installation steps more concise
-7. Verified all links and badges
-8. Ensured consistent naming (Budgilo throughout)
+Key fixes made:
+1. Removed semicolons from the Mermaid diagram syntax
+2. Added proper blank lines before and after the Mermaid code block
+3. Fixed image URLs (removed duplicate https://)
+4. Ensured consistent spacing throughout
+5. Verified all markdown syntax is correct
 
-The README now has:
-- Clear visual hierarchy
-- Proper spacing
-- Working diagrams
-- Consistent formatting
-- All essential sections
-- Mobile-responsive layout
-
-You can copy this entire block directly into your README.md file. Remember to:
-1. Replace placeholder image URLs
-2. Update the GitHub username/repo links
-3. Verify your Google Play package name
-4. Add your actual license file
+The diagram should now render properly on GitHub. Remember to:
+1. Replace all placeholder URLs with your actual image URLs
+2. Update the GitHub username/repo in links
+3. Verify your Google Play package name matches
+4. Add your actual LICENSE file
