@@ -23,28 +23,28 @@
   <a href="https://pub.dev/packages/lottie" target="_blank"><img src="https://img.shields.io/badge/Lottie-000000?style=for-the-badge&logo=lottie&logoColor=white" alt="Lottie"></a>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
-  <img src="https://img.shields.io/badge/Version-2.1.3-green.svg" alt="Version">
-  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
-  <img src="https://img.shields.io/github/stars/your-username/budgilo-app?style=social" alt="GitHub Stars">
-</p>
-
 ---
 
 ## 🚀 About The Project
 
-**Budgilo** is a beautifully designed, feature-rich mobile application built with Flutter to help you take control of your finances. It provides an intuitive interface for tracking expenses and income, managing multiple wallets, setting budgets, and visualizing your financial habits through dynamic charts and reports.
+**Budgilo** is a beautifully designed, feature-rich mobile application built with Flutter to help you take control of your finances. It provides an intuitive interface for tracking expenses and income, managing multiple wallets, setting budgets, and visualizing your financial habits through dynamic charts and reports. All data is stored locally on your device for maximum privacy.
 
 ---
 
 ## ✨ Key Features
 
--   **📊 Dynamic Financial Dashboard:** A real-time overview of your financial health with interactive cards and beautiful Lottie animations.
--   **💰 Smart Transaction Management:** Easily log expenses and income with custom categories, icons, and multiple view modes (list, grid, table).
--   **👛 Multi-Wallet System:** Create unlimited wallets, seamlessly transfer funds between them, and analyze the performance of each wallet individually.
--   **🌈 Customizable UI:** Personalize your experience with 8 beautiful color themes and a fully responsive design that looks great on any device.
--   **🌍 Global Support:** Use the app in your native language with support for 7 languages and multiple global currencies.
+-   **📊 Dynamic Financial Dashboard:** Get a real-time overview of your financial health with interactive cards for total spending, earnings, and savings.
+-   **👛 Multi-Wallet Management:** Create and manage unlimited wallets (Cash, Bank, Digital). Seamlessly transfer funds between them and track individual balances.
+-   **🎯 Customizable Budgets:** Set monthly budgets for specific expense categories to stay on track with your financial goals.
+-   **📈 Insightful Reports & Charts:** Visualize your financial data with dynamic Pie, Bar, and Line charts. Filter reports by day, month, or year.
+-   **🎨 Custom Categories & Icons:** Organize your transactions with a rich set of default categories or create your own with custom names, colors, and icons.
+-   **📅 Calendar View:** See a daily breakdown of your income and expenses on an interactive calendar.
+-   **🔔 Smart Reminders & Alarms:** Set one-time or recurring monthly reminders for upcoming payments like rent or bills.
+-   **🌍 Global & Personalizable:**
+    -   **Multi-Language Support:** Fully translated into 7 languages (English, Arabic, Spanish, French, German, Chinese, Portuguese).
+    -   **Multiple Currencies:** Choose from a wide variety of currency symbols.
+    -   **Customizable Themes:** Personalize the app's look and feel with 8 beautiful color themes.
+-   **🔒 Offline & Private:** All your financial data is stored securely on your device and never leaves it.
 
 ---
 
@@ -52,23 +52,33 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fb947537-0bff-4d87-ae8f-5f4e7d8a7e32" width="260" alt="Home Screen">
-  <img src="https://github.com/user-attachments/assets/913dcd63-3cea-42f5-8b76-7ecddb608b1e" width="260" alt="Wallets">
   <img src="https://github.com/user-attachments/assets/cabef679-2eea-4081-a1dc-50a914797800" width="260" alt="Pie Chart">
+  <img src="https://github.com/user-attachments/assets/bfddd3b0-d37a-4177-a4a1-d859d17639b6" width="260" alt="Categories & Wallets">
+</p>
+<p align="center">
   <img src="https://github.com/user-attachments/assets/099c6d74-1ba9-46f0-b087-846840daf68e" width="260" alt="Line Chart">
+  <img src="https://github.com/user-attachments/assets/913dcd63-3cea-42f5-8b76-7ecddb608b1e" width="260" alt="Wallets">
+  <img src="https://github.com/user-attachments/assets/9e24d6da-d5c7-47db-940f-7c6114ca6993" alt="Expenses in Bills">
+</p>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d72973ea-954e-4ae5-bfc0-cc4d11e07cc3" width="260" alt="Chart Page">
+  <img src="https://github.com/user-attachments/assets/e9de9180-72e6-4844-b517-61496bfd609b" alt="Calendar View">
+  <img src="https://github.com/user-attachments/assets/4fec9d3e-91e3-4450-ba43-106a3884ca8c" width="260" alt="Chart Page Alt">
 </p>
 
 ---
 
 ## 🛠️ Tech Stack
 
-This project is built with a modern and robust tech stack:
-
 -   **Framework:** [Flutter](https://flutter.dev/)
 -   **Language:** [Dart](https://dart.dev/)
 -   **State Management:** [Riverpod](https://riverpod.dev/)
 -   **Navigation & Utilities:** [GetX](https://pub.dev/packages/get)
--   **Local Storage:** [Hive](https://pub.dev/packages/hive)
+-   **Local Database:** [Hive](https://pub.dev/packages/hive)
+-   **Charts:** [fl_chart](https://pub.dev/packages/fl_chart)
 -   **Animations:** [Lottie](https://pub.dev/packages/lottie)
+-   **Notifications:** [Awesome Notifications](https://pub.dev/packages/awesome_notifications)
+-   **Monetization:** [Google Mobile Ads](https://pub.dev/packages/google_mobile_ads)
 
 ---
 
@@ -97,9 +107,9 @@ To get a local copy up and running, follow these simple steps.
 
 ## 🙌 Contributing
 
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions make the open-source community an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
-Please read our `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests.
+Please read `CONTRIBUTING.md` for details on our code of conduct and the process for submitting pull requests.
 
 ---
 
@@ -111,11 +121,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Developer: **[@your-twitter](https://twitter.com/your-twitter)**
-<br>
-Email: **yourname@example.com**
-<br>
-Project Link: **[https://github.com/your-username/budgilo-app](https://github.com/your-username/budgilo-app)**
+Project Link: **[https://github.com/MegoABKM/budgilo-app](https://github.com/your-username/budgilo-app)**
 
 <br>
 
