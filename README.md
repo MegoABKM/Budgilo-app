@@ -1,7 +1,7 @@
 # Budgify 💰 - Ultimate Expense Tracker & Wallet Manager
 
 <p align="center">
-  <img src="https://i.imgur.com/8a5nO32.jpg" alt="Budgify Logo" width="150" style="border-radius: 24px;"/>
+  <img src="https://github.com/user-attachments/assets/524fcdff-2bef-440e-a033-af144f07d70b" alt="Budgify App Icon" width="150" style="border-radius: 24px;"/>
   <h1 align="center">Budgify - Smart Finance Management</h1>
   <p align="center">
     <b>Track. Analyze. Optimize.</b> Your all-in-one financial companion with stunning visuals and powerful insights.
@@ -27,9 +27,13 @@
   <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License: MIT">
   <img src="https://img.shields.io/badge/Version-2.1.3-green.svg" alt="Version">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
-  <!-- Replace with your GitHub username and repo name -->
+  <!-- TODO: Replace with your GitHub username and repo name -->
   <img src="https://img.shields.io/github/stars/your-username/budgify-app?style=social" alt="GitHub Stars">
 </p>
+
+## 🚀 About The Project
+
+Budgify is a beautifully designed, feature-rich mobile application built with Flutter to help you take control of your finances. It provides an intuitive interface for tracking expenses and income, managing multiple wallets, setting budgets, and visualizing your financial habits through dynamic charts and reports. With a focus on user experience, Budgify makes financial management simple, engaging, and accessible to everyone.
 
 ## ✨ Key Features
 
@@ -127,3 +131,41 @@ graph TD
     G --> G1[Multi-Language Support];
     G --> G2[Custom Themes];
     G --> G3[Data Reports];
+Use code with caution.
+Markdown
+🚀 Getting Started
+To get a local copy up and running, follow these simple steps.
+Prerequisites
+Flutter SDK: Installation Guide
+An IDE like Android Studio or VS Code
+Installation
+Clone the repo
+Generated sh
+git clone https://github.com/your-username/budgify-app.git
+Use code with caution.
+Sh
+Navigate to the project directory
+Generated sh
+cd budgify-app
+Use code with caution.
+Sh
+Install packages
+Generated sh
+flutter pub get
+Use code with caution.
+Sh
+Run the app
+Generated sh
+flutter run
+Use code with caution.
+Sh
+🤝 Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+📜 License
+Distributed under the MIT License. See LICENSE for more information.
