@@ -141,7 +141,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## 📬 Contact
 
-Project Link: **[https://github.com/your-username/budgilo-app](https://github.com/your-username/budgilo-app)**
+Project Link: **[https://github.com/MegoABKM/budgilo-app](https://github.com/MegoABKM/budgilo-app)**
 
 <br>
 
