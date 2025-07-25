@@ -1,8 +1,8 @@
-# Budgify 💰 - Ultimate Expense Tracker & Wallet Manager
+# Budgilo 💰 - Ultimate Expense Tracker & Wallet Manager
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/524fcdff-2bef-440e-a033-af144f07d70b" alt="Budgify App Icon" width="150" style="border-radius: 24px;"/>
-  <h1 align="center">Budgify - Smart Finance Management</h1>
+  <img src="https://github.com/user-attachments/assets/524fcdff-2bef-440e-a033-af144f07d70b" alt="Budgilo App Icon" width="150" style="border-radius: 24px;"/>
+  <h1 align="center">Budgilo - Smart Finance Management</h1>
   <p align="center">
     <b>Track. Analyze. Optimize.</b> Your all-in-one financial companion with stunning visuals and powerful insights.
   </p>
@@ -10,6 +10,7 @@
 
 <p align="center">
   <a href="https://play.google.com/store/apps/details?id=com.budgifydev.budgify" target="_blank">
+    <!-- TODO: Update the Google Play link if the package name has changed to 'budgilo' -->
     <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" alt="Get it on Google Play" width="200"/>
   </a>
 </p>
@@ -28,12 +29,12 @@
   <img src="https://img.shields.io/badge/Version-2.1.3-green.svg" alt="Version">
   <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" alt="PRs Welcome">
   <!-- TODO: Replace with your GitHub username and repo name -->
-  <img src="https://img.shields.io/github/stars/your-username/budgify-app?style=social" alt="GitHub Stars">
+  <img src="https://img.shields.io/github/stars/your-username/budgilo-app?style=social" alt="GitHub Stars">
 </p>
 
 ## 🚀 About The Project
 
-Budgify is a beautifully designed, feature-rich mobile application built with Flutter to help you take control of your finances. It provides an intuitive interface for tracking expenses and income, managing multiple wallets, setting budgets, and visualizing your financial habits through dynamic charts and reports. With a focus on user experience, Budgify makes financial management simple, engaging, and accessible to everyone.
+Budgilo is a beautifully designed, feature-rich mobile application built with Flutter to help you take control of your finances. It provides an intuitive interface for tracking expenses and income, managing multiple wallets, setting budgets, and visualizing your financial habits through dynamic charts and reports. With a focus on user experience, Budgilo makes financial management simple, engaging, and accessible to everyone.
 
 ## ✨ Key Features
 
@@ -76,7 +77,7 @@ Budgify is a beautifully designed, feature-rich mobile application built with Fl
 
 ## 🛠️ Tech Stack & Architecture
 
-Budgify is built with a modern, scalable architecture designed for performance and maintainability.
+Budgilo is built with a modern, scalable architecture designed for performance and maintainability.
 
 ```mermaid
 graph TD
@@ -107,3 +108,27 @@ graph TD
     G --> G1[Multi-Language Support];
     G --> G2[Custom Themes];
     G --> G3[Data Reports];
+
+🚀 Getting Started
+To get a local copy up and running, follow these simple steps.
+Prerequisites
+Flutter SDK: Installation Guide
+An IDE like Android Studio or VS Code
+
+Installation
+
+git clone https://github.com/your-username/budgilo-app.git
+cd budgilo-app
+flutter pub get
+flutter run
+
+🤝 Contributing
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
+If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
+Fork the Project
+Create your Feature Branch (git checkout -b feature/AmazingFeature)
+Commit your Changes (git commit -m 'Add some AmazingFeature')
+Push to the Branch (git push origin feature/AmazingFeature)
+Open a Pull Request
+📜 License
+Distributed under the MIT License. See LICENSE for more information.
